@@ -36,50 +36,6 @@ It includes **authentication**, **product listing with filters**, **cart managem
 
 ## ⚙️ Installation & Setup
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/mern-shop.git
-cd mern-shop
-
-# 🛍️ MERN Shop - E-Store
-
-![MERN](https://img.shields.io/badge/Stack-MERN-green)  
-A full-stack **E-Commerce Web Application** built using the **MERN stack**.  
-It includes **authentication**, **product listing with filters**, **cart management**, and **persistent sessions**.
-
----
-
-## 📌 Features
-✅ User Authentication using **JWT**  
-✅ Sign Up & Login functionality  
-✅ Product listing with filters (price, category, sorting)  
-✅ Add to Cart & Remove from Cart  
-✅ Cart persists even after logging out  
-✅ Secure backend with **Express + MongoDB**  
-✅ Modern UI with **React + Tailwind CSS**  
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-- React 19
-- React Router DOM
-- Tailwind CSS
-- Axios
-- Lucide React (icons)
-
-### Backend
-- Node.js + Express.js
-- MongoDB + Mongoose
-- JWT (Authentication)
-- Bcrypt (Password hashing)
-- CORS, dotenv
-
----
-
-## ⚙️ Installation & Setup
-
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/mern-shop.git
